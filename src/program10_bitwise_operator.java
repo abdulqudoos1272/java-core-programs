@@ -7,5 +7,7 @@ public class program10_bitwise_operator {
         System.out.println("Bitwise or is : "+(p|q));
         System.out.println("Bitwise xor is : "+(p^q));
         System.out.println("Bitwise not is : "+(~p));
+        System.out.println("Left Shift value of p=6 1-time : "+(p<<1));
+        System.out.println("Right Shift value of q=4 1-time : "+(q>>1));
     }
 }
