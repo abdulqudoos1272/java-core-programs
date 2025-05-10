@@ -17,5 +17,6 @@ public class program25_string {
         else{
             System.out.println("Both are equal");
         }
+        System.out.println("Substring of Info String : "+info.substring(7,13));
     }
 }

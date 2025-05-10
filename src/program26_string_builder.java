@@ -11,6 +11,5 @@ public class program26_string_builder {
         System.out.println("Length of s1 is : "+s1.length()); //find length of s1
         s1.deleteCharAt(6); //delete char at index 6
         System.out.println(s1);
-
     }
 }
